@@ -1,21 +1,18 @@
 ### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Siddhant_K_code)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/siddhantkhare24/)
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/SIDDHANTKHARE2407/)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/siddhant_says/)
-<a href="mailto:Siddhantkhare2694@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/keshavganapathy/)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/kg.5203/)
+<a href="mailto:kganapathy23@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1266686%20Lines%20of%20code-blue)
 
 #### 🤔 Who Am I!?
 
-- 🏫 I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.) [2023].
-- ⚡️ My expertise primarily revolves around Web Developemnt, UI/UX Designs.
-- 🔭 I’m currently working on JavaScript, i.e., React.js, Node.js.
-- ♥️ I am an open-source lover and that's why I occasionally build open-source products.
+- 🏫 High School Senior at Centennial High School
+- ⚡️ My interests are primarily in Machine Learning and Artificial Intelligence
+- 🔭 I’m currently working at the University of Maryland College Park.
 
 #### 👨🏻‍💻 Mostly Used Languages and Tools :
 
@@ -46,10 +43,10 @@
  
 
 <p align="center">
-<a href="https://github.com/Siddhant-K-code?tab=followers">
-    <img src="https://img.shields.io/github/followers/Siddhant-K-code?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+<a href="https://github.com/keshavganapathy-code?tab=followers">
+    <img src="https://img.shields.io/github/followers/keshavganapathy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/Siddhant_K_code">
-    <img src="https://img.shields.io/twitter/follow/Siddhant_K_code?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/keshavganapathy?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  </p>
