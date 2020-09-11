@@ -38,13 +38,9 @@
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
 <p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=tokyonight" /></p>
 
- 
 
 <p align="center">
 <a href="https://github.com/keshavganapathy-code?tab=followers">
     <img src="https://img.shields.io/github/followers/keshavganapathy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/Siddhant_K_code">
-    <img src="https://img.shields.io/twitter/follow/keshavganapathy?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  </p>
