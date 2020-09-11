@@ -5,6 +5,8 @@
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/kg.5203/)
 <a href="mailto:kganapathy23@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavganapathy" alt="keshavganapathy" /> </p>
+
 #### 🤔 Who Am I!?
 
 - 🏫 High School Senior at Centennial High School
