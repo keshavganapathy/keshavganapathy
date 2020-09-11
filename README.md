@@ -5,12 +5,10 @@
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/kg.5203/)
 <a href="mailto:kganapathy23@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1266686%20Lines%20of%20code-blue)
-
 #### 🤔 Who Am I!?
 
 - 🏫 High School Senior at Centennial High School
-- ⚡️ My interests are primarily in Machine Learning and Artificial Intelligence
+- 🌱 My interests are primarily in Machine Learning and Artificial Intelligence
 - 🔭 I’m currently working at the University of Maryland College Park.
 
 #### 👨🏻‍💻 Mostly Used Languages and Tools :
