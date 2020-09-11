@@ -28,7 +28,7 @@
 
 
 <p align="center">
-<a href="https://github.com/keshavganapathy-code?tab=followers">
+<a href="https://github.com/keshavganapathy?tab=followers">
     <img src="https://img.shields.io/github/followers/keshavganapathy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
  </p>
