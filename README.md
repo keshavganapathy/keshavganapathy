@@ -9,7 +9,7 @@
 
 - 🏫 High School Senior at Centennial High School
 - 🌱 My interests are primarily in Machine Learning and Artificial Intelligence
-- 🔭 I’m currently working at the University of Maryland College Park.
+- 🔭 I’m currently conducting research at the University of Maryland College Park.
 
 #### 👨🏻‍💻 Mostly Used Languages and Tools :
 
