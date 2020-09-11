@@ -16,8 +16,6 @@
 
 #### 👨🏻‍💻 Mostly Used Languages and Tools :
 
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -25,18 +23,11 @@
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 
-#### 👨🏻‍💻 Familiar With :
-
-
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 
 
-<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
-<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=tokyonight" /></p>
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=default" /></p>
+<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=default" /></p>
 
 
 <p align="center">
