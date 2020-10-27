@@ -11,7 +11,7 @@
 
 - 🏫 High School Senior at Centennial High School
 - 🌱 My interests are primarily in Machine Learning and Artificial Intelligence
-- 🔭 I’m currently conducting research at the University of Maryland College Park.
+- 🔭 I’m currently an intern at the Johns Hopkins Applied Physics Laboratory.
 
 #### 👨🏻‍💻 Mostly Used Languages and Tools :
 
