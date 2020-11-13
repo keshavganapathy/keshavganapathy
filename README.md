@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavganapathy" alt="keshavganapathy" /> </p>
 
-## Biography
+## 🤔 Who Am I!?
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="24"/></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -22,6 +22,8 @@ class Keshav:
         self.username = 'keshavganapathy'
         self.name = 'Keshav Ganapathy'
         self.web = 'https://ganapathy.ml/'
+        self.institution = 'Centennial High School'
+        self.interests = ['Machine Learning', 'Natural Language Processing']
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Bulma'],
             'languages': ['Python', 'Java']
@@ -41,8 +43,6 @@ if __name__ == '__main__':
 
 ## 🤔 Who Am I!?
 
-- 🏫 High School Senior at Centennial High School
-- 🌱 My interests are primarily in Machine Learning and Artificial Intelligence
 - 🔭 I’m currently an intern at the Johns Hopkins Applied Physics Laboratory.
 
 
