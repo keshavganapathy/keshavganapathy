@@ -28,7 +28,7 @@ class Keshav:
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Bulma'],
             'languages': ['Python', 'Java'],
-            'libraries': ['Sklearn', 'Pandas', 'Numpy', 'TensorFlow', 'MatplotLib', 'Pytorch'],
+            'libraries': ['Sklearn', 'Pandas', 'NumPy', 'TensorFlow', 'MatplotLib', 'Pytorch'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Jupyter notebook'],
             'Development Tools': ['Atom', 'Spyder'],
             'OS': ['Windows', 'MacOS'],
