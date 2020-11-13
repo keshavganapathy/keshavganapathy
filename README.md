@@ -7,9 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavganapathy" alt="keshavganapathy" /> </p>
 
-##Bio
+## Bio
 ```python
 class Keshav:
+
     def __init__(self):
         self.username = 'keshavganapathy'
         self.name = 'Keshav Ganapathy'
@@ -22,10 +23,13 @@ class Keshav:
             'ides': ['Atom', 'Spyder'],
             'OS': ['Windows', 'MacOS'],
         }
+        
     def __str__(self):
         return self.name
-if __name__ == '__main__':
-    me = Keshav()
+        
+
+    if __name__ == '__main__':
+        me = Keshav()
 ```
 
 ## 🤔 Who Am I!?
