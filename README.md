@@ -7,13 +7,42 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavganapathy" alt="keshavganapathy" /> </p>
 
-#### 🤔 Who Am I!?
+##Bio
+```python
+class RafnixG:
+
+    def __init__(self):
+        self.username = 'rafnixg'
+        self.name = 'Rafnix Guzmán'
+        self.web = 'https://rafnixg.dev'
+        self.twitter = '@rafnixg'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
+            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+        }
+        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = RafnixG()
+
+
+```
+
+## 🤔 Who Am I!?
 
 - 🏫 High School Senior at Centennial High School
 - 🌱 My interests are primarily in Machine Learning and Artificial Intelligence
 - 🔭 I’m currently an intern at the Johns Hopkins Applied Physics Laboratory.
 
-#### 👨🏻‍💻 Mostly Used Languages and Tools :
+## 👨🏻‍💻 Mostly Used Languages and Tools :
 
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="24"/></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
