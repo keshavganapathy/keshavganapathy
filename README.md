@@ -27,7 +27,7 @@ class Keshav:
             'languages': ['Python', 'Java']
             'libraries': ['Sklearn', 'Pandas', 'Numpy', 'TensorFlow', 'MatplotLib', 'Pytorch']
             'tools': ['GIT', 'GitHub', 'GitLab', 'Jupyter notebook'],
-            'ides': ['Atom', 'Spyder'],
+            'Development Tools': ['Atom', 'Spyder'],
             'OS': ['Windows', 'MacOS'],
         }
         
@@ -44,15 +44,6 @@ class Keshav:
 - 🏫 High School Senior at Centennial High School
 - 🌱 My interests are primarily in Machine Learning and Artificial Intelligence
 - 🔭 I’m currently an intern at the Johns Hopkins Applied Physics Laboratory.
-
-## 👨🏻‍💻 Mostly Used Languages and Tools :
-
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="24"/></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=dark" /></p>
