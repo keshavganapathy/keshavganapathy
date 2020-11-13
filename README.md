@@ -27,8 +27,8 @@ class Keshav:
         self.current_internships = ['Johns Hopkins Applied Physics Laboratory', 'Stony Brook University']
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Bulma'],
-            'languages': ['Python', 'Java']
-            'libraries': ['Sklearn', 'Pandas', 'Numpy', 'TensorFlow', 'MatplotLib', 'Pytorch']
+            'languages': ['Python', 'Java'],
+            'libraries': ['Sklearn', 'Pandas', 'Numpy', 'TensorFlow', 'MatplotLib', 'Pytorch'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Jupyter notebook'],
             'Development Tools': ['Atom', 'Spyder'],
             'OS': ['Windows', 'MacOS'],
@@ -40,8 +40,6 @@ class Keshav:
 if __name__ == '__main__':
     me = Keshav()
 ```
-
-
 
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=dark" /></p>
 <p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=dark" /></p>
