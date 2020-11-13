@@ -35,8 +35,8 @@ class Keshav:
         return self.name
         
 
-    if __name__ == '__main__':
-        me = Keshav()
+if __name__ == '__main__':
+    me = Keshav()
 ```
 
 ## 🤔 Who Am I!?
