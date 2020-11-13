@@ -1,4 +1,3 @@
-.bg-blue
 <h1 align="center">Greetings! My name is Keshav Ganapathy&nbsp;&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <h3 align="center">High School Senior & Machine Learning Enthusiast</h3>
 
