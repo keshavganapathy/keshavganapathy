@@ -21,8 +21,8 @@ class Keshav:
     def __init__(self):
         self.username = 'keshavganapathy'
         self.name = 'Keshav Ganapathy'
-        self.web = 'https://ganapathy.ml/'
-        self.institution = 'Centennial High School'
+        self.portfolio = 'https://ganapathy.ml/'
+        self.school = 'Centennial High School'
         self.interests = ['Machine Learning', 'Natural Language Processing']
         self.current_internships = ['Johns Hopkins Applied Physics Laboratory', 'Stony Brook University']
         self.code = {
@@ -37,7 +37,6 @@ class Keshav:
     def __str__(self):
         return self.name
         
-
 if __name__ == '__main__':
     me = Keshav()
 ```
