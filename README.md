@@ -24,6 +24,7 @@ class Keshav:
         self.web = 'https://ganapathy.ml/'
         self.institution = 'Centennial High School'
         self.interests = ['Machine Learning', 'Natural Language Processing']
+        self.current_internships = ['Johns Hopkins Applied Physics Laboratory', 'Stony Brook University']
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Bulma'],
             'languages': ['Python', 'Java']
@@ -41,9 +42,6 @@ if __name__ == '__main__':
     me = Keshav()
 ```
 
-## 🤔 Who Am I!?
-
-- 🔭 I’m currently an intern at the Johns Hopkins Applied Physics Laboratory.
 
 
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=dark" /></p>
