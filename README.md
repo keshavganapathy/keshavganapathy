@@ -24,8 +24,8 @@ class Keshav:
             'languages': ['Python', 'Java'],
             'libraries': ['Sklearn', 'Pandas', 'NumPy', 'TensorFlow', 'MatplotLib', 'Pytorch', 'Datascience'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Jupyter notebook'],
-            'Development Tools': ['Atom', 'Spyder'],
-            'OS': ['Windows', 'MacOS'],
+            'development-tools': ['Atom', 'Spyder'],
+            'os': ['Windows', 'MacOS'],
         }
         
     def __str__(self):
