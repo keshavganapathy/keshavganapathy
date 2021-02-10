@@ -35,7 +35,7 @@ if __name__ == '__main__':
     me = Keshav()
 ```
 ## Favorite Repos
-https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
 
 ## ✏️ GitHub Statistics
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
