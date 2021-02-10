@@ -35,11 +35,12 @@ if __name__ == '__main__':
     me = Keshav()
 ```
 ## Favorite Repos
+<div align="center">
 [![An Open Review of Open Review](https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight)](https://github.com/keshavganapathy/an-open-review-of-openreview)
 [![An Open Review of Open Review](https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight)](https://github.com/keshavganapathy/an-open-review-of-openreview)
 [![An Open Review of Open Review](https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight)](https://github.com/keshavganapathy/an-open-review-of-openreview)
 [![An Open Review of Open Review](https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight)](https://github.com/keshavganapathy/an-open-review-of-openreview)
-
+</div>
 
 ## ✏️ GitHub Statistics
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
