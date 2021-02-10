@@ -35,10 +35,10 @@ if __name__ == '__main__':
     me = Keshav()
 ```
 ## Favorite Repos
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
+<p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
+<p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
+<p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
+<p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
 
 ## ✏️ GitHub Statistics
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
