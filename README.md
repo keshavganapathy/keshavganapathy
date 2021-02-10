@@ -35,16 +35,13 @@ if __name__ == '__main__':
     me = Keshav()
 ```
 ## Favorite Repos
-<div align="center">
 [![An Open Review of Open Review](https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight)](https://github.com/keshavganapathy/an-open-review-of-openreview)
-[![An Open Review of Open Review](https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight)](https://github.com/keshavganapathy/an-open-review-of-openreview)
-[![An Open Review of Open Review](https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight)](https://github.com/keshavganapathy/an-open-review-of-openreview)
-[![An Open Review of Open Review](https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight)](https://github.com/keshavganapathy/an-open-review-of-openreview)
-</div>
+[![Groove](https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=groove&theme=tokyonight)](https://github.com/keshavganapathy/groove)
+
 
 ## ✏️ GitHub Statistics
-<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
-<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=tokyonight" /></p>
+<p align="left"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
+<p align="left"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=tokyonight" /></p>
 
 
 <p align="center">
