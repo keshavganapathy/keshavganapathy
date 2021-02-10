@@ -36,8 +36,8 @@ if __name__ == '__main__':
 ```
 
 ## ✏️ GitHub Statistics
-<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=dark" /></p>
-<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=dark" /></p>
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=tokyonight" /></p>
 
 
 <p align="center">
