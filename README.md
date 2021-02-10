@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavganapathy" alt="keshavganapathy" /> </p>
 
-## 👨 Who Am I!?
+## 😀 Who Am I!?
 
 ```python
 class Keshav:
