@@ -37,10 +37,10 @@ if __name__ == '__main__':
 ## Favorite Repos
 
 <a href="https://github.com/keshavganapathy/an-open-review-of-openreview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight" />
 </a>
 <a href="https://github.com/keshavganapathy/an-open-review-of-openreview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight" />
 </a>
 
 
