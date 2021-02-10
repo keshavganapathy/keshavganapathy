@@ -49,12 +49,6 @@ if __name__ == '__main__':
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
 <p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=tokyonight" /></p>
 
-<a href="">
-  <img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=tokyonight" />
-</a>
-<a href="">
-  <img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=keshavganapathy" />
-</a>
 
 
 <p align="center">
