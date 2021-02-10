@@ -35,10 +35,11 @@ if __name__ == '__main__':
     me = Keshav()
 ```
 ## Favorite Repos
-<p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
-<p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
-<p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
-<p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=ga&cache_seconds=86400&theme=default" /></p>
+[![Groove](https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight)](https://github.com/keshavganapathy/an-open-review-of-openreview)
+[![tytot.github.io by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=tytot.github.io&title_color=ff3c00&text_color=ffffff&icon_color=ff3c00&bg_color=311d00)](https://github.com/tytot/tytot.github.io)
+
+[![Attendance for Google Meet by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=attendance-for-google-meet&title_color=ffb81c&text_color=ffffff&icon_color=ffb81c&bg_color=6f263d)](https://github.com/tytot/attendance-for-google-meet)
+[![tytot.github.io by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=tytot.github.io&title_color=ff3c00&text_color=ffffff&icon_color=ff3c00&bg_color=311d00)](https://github.com/tytot/tytot.github.io)
 
 ## ✏️ GitHub Statistics
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
