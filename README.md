@@ -20,7 +20,7 @@ class Keshav:
         self.interests = ['Machine Learning', 'Natural Language Processing']
         self.current_internships = ['Johns Hopkins Applied Physics Laboratory', 'Stony Brook University']
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Bulma'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Bulma', 'Svelte'],
             'languages': ['Python', 'Java'],
             'libraries': ['Sklearn', 'Pandas', 'NumPy', 'TensorFlow', 'MatplotLib', 'PyTorch', 'Datascience'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Jupyter notebook'],
