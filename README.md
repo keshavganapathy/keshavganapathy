@@ -37,17 +37,17 @@ if __name__ == '__main__':
 ## ⭐ My Favorite Repos
 
 <a href="https://github.com/keshavganapathy/an-open-review-of-openreview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=calm" />
 </a>
 <a href="https://github.com/keshavganapathy/harmony">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=harmony&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=harmony&theme=calm" />
 </a>
 
 
 
 ## 📊 GitHub Statistics
-<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=tokyonight" /></p>
-<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=tokyonight" /></p>
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=calm" /></p>
+<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=calm" /></p>
 
 
 
