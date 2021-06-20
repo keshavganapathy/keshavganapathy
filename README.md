@@ -18,7 +18,7 @@ class Keshav:
         self.portfolio = 'https://ganapathy.ml/'
         self.school = 'Centennial High School'
         self.interests = ['Machine Learning', 'Natural Language Processing']
-        self.current_internships = ['Johns Hopkins Applied Physics Laboratory']
+        self.current_internships = ['University of Maryland College Park']
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Bulma', 'Svelte'],
             'languages': ['Python', 'Java'],
