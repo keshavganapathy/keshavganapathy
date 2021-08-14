@@ -15,7 +15,7 @@ class Keshav:
     def __init__(self):
         self.username = 'keshavganapathy'
         self.name = 'Keshav Ganapathy'
-        self.portfolio = 'https://ganapathy.ml/'
+        self.portfolio = 'https://keshavganapathy.github.io/'
         self.school = 'Centennial High School'
         self.interests = ['Machine Learning', 'Natural Language Processing']
         self.current_internships = ['University of Maryland College Park']
