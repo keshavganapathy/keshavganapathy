@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! My name is Keshav Ganapathy&nbsp;&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
-<h3 align="center">High School Senior & Machine Learning Enthusiast</h3>
+<h3 align="center">Computer Science Student & Machine Learning Enthusiast</h3>
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/keshavganapathy/)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/kg.5203/)
