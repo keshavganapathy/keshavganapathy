@@ -16,9 +16,9 @@ class Keshav:
         self.username = 'keshavganapathy'
         self.name = 'Keshav Ganapathy'
         self.portfolio = 'https://keshavganapathy.github.io/'
-        self.school = 'Centennial High School'
+        self.school = 'University of Maryland College Park'
         self.interests = ['Machine Learning', 'Natural Language Processing']
-        self.current_internships = ['University of Maryland College Park']
+        self.current_internships = [Looking!]
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Bulma', 'Svelte'],
             'languages': ['Python', 'Java'],
