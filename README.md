@@ -15,9 +15,8 @@ class Keshav:
     def __init__(self):
         self.username = 'keshavganapathy'
         self.name = 'Keshav Ganapathy'
-        self.portfolio = 'https://keshavganapathy.github.io/'
         self.school = 'University of Maryland College Park'
-        self.interests = ['Machine Learning', 'Natural Language Processing']
+        self.interests = ['Machine Learning', 'Natural Language Processing', 'Software Engineering']
         self.current_internships = [Looking!]
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Bulma', 'Svelte'],
@@ -35,7 +34,7 @@ if __name__ == '__main__':
     me = Keshav()
 ```
 <!-- ## ⭐ My Favorite Repos
-
+        self.portfolio = 'https://keshavganapathy.github.io/'
 <a href="https://github.com/keshavganapathy/an-open-review-of-openreview">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=calm" />
 </a>
