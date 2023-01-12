@@ -34,7 +34,7 @@ class Keshav:
 if __name__ == '__main__':
     me = Keshav()
 ```
-## ⭐ My Favorite Repos
+<!-- ## ⭐ My Favorite Repos
 
 <a href="https://github.com/keshavganapathy/an-open-review-of-openreview">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavganapathy&repo=an-open-review-of-openreview&theme=calm" />
@@ -49,7 +49,7 @@ if __name__ == '__main__':
 [![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavganapathy)](https://github.com/keshavganapathy/github-readme-stats)
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=keshavganapathy&show_icons=true&theme=calm" /></p>
 <p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavganapathy&theme=calm" /></p>
-
+ -->
 
 
 <p align="center">
