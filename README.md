@@ -16,6 +16,7 @@ class Keshav:
         self.username = 'keshavganapathy'
         self.name = 'Keshav Ganapathy'
         self.school = 'University of Maryland College Park'
+        self.portfolio = 'https://keshavganapathy.github.io/'
         self.interests = ['Machine Learning', 'Natural Language Processing', 'Software Engineering']
         self.current_internships = [Looking!]
         self.code = {
